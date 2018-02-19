@@ -1,0 +1,2800 @@
+{
+  "@graph" : [ {
+    "@id" : "http://dbpedia.org/resource/Ai_Iijima",
+    "label" : "Ai Iijima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Akashi_Motojiro",
+    "birthDate" : "1864-09-01",
+    "deathDate" : "1919-10-26",
+    "label" : "Akashi Motojiro"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Akihiko_Hirata",
+    "label" : "Akihiko Hirata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Akiko_Yosano",
+    "label" : "Akiko Yosano"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Akinoumi_Setsuo",
+    "label" : "Akinoumi Setsuo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Akio_Morita",
+    "label" : "Akio Morita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Akira_Kurosawa",
+    "label" : "Akira Kurosawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Akira_Mutō",
+    "birthDate" : "1892-12-15",
+    "deathDate" : "1948-12-23",
+    "label" : "Akira Mutō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Akiyama_Saneyuki",
+    "birthDate" : "1868-04-12",
+    "deathDate" : "1918-02-04",
+    "label" : "Akiyama Saneyuki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Akiyama_Yoshifuru",
+    "birthDate" : "1859-02-09",
+    "deathDate" : "1930-11-04",
+    "label" : "Akiyama Yoshifuru"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Anna_Nakagawa",
+    "label" : "Anna Nakagawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Aoki_Shūzō",
+    "label" : "Aoki Shūzō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Arase_Nagahide",
+    "label" : "Arase Nagahide"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Arichi_Shinanojō",
+    "birthDate" : "1843-03-15",
+    "deathDate" : "1919-01-17",
+    "label" : "Arichi Shinanojō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Arihiro_Fujimura",
+    "label" : "Arihiro Fujimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Arisaka_Nariakira",
+    "birthDate" : "1852-04-05",
+    "deathDate" : "1915-01-12",
+    "label" : "Arisaka Nariakira"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Aritomo_Gotō",
+    "birthDate" : "1888-01-23",
+    "deathDate" : "1942-10-12",
+    "label" : "Aritomo Gotō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Atsushi_Kuroi",
+    "label" : "Atsushi Kuroi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Aya_Kitō",
+    "label" : "Aya Kitō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Bandō_Mitsugorō_X",
+    "label" : "Bandō Mitsugorō X"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Boshirō_Hosogaya",
+    "birthDate" : "1888-06-24",
+    "deathDate" : "1964-02-08",
+    "label" : "Boshirō Hosogaya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Bunta_Sugawara",
+    "label" : "Bunta Sugawara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chieko_Aioi",
+    "label" : "Chieko Aioi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chiemi_Eri",
+    "label" : "Chiemi Eri"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chiezō_Kataoka",
+    "label" : "Chiezō Kataoka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chiune_Sugihara",
+    "label" : "Chiune Sugihara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chiyonofuji_Mitsugu",
+    "label" : "Chiyonofuji Mitsugu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chosuke_Ikariya",
+    "label" : "Chosuke Ikariya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chushiro_Hayashi",
+    "label" : "Chushiro Hayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chōtoku_Kyan",
+    "birthDate" : "1870",
+    "label" : "Chōtoku Kyan"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chūhei_Nambu",
+    "label" : "Chūhei Nambu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chūichi_Hara",
+    "birthDate" : "1889-03-15",
+    "deathDate" : "1964-02-17",
+    "label" : "Chūichi Hara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chūichi_Nagumo",
+    "birthDate" : "1887-03-25",
+    "deathDate" : "1944-07-06",
+    "label" : "Chūichi Nagumo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Chūsei_Sone",
+    "label" : "Chūsei Sone"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Cocoa_Fujiwara",
+    "birthDate" : "1983-04-28",
+    "deathDate" : "2015-03-31",
+    "label" : "Cocoa Fujiwara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Daihachi_Oguchi",
+    "label" : "Daihachi Oguchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Daijiro_Kato",
+    "label" : "Daijiro Kato"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Daiki_Sato",
+    "label" : "Daiki Sato"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Daikirin_Takayoshi",
+    "label" : "Daikirin Takayoshi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Daishōhō_Masami",
+    "label" : "Daishōhō Masami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Daisuke_Gōri",
+    "label" : "Daisuke Gōri"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Daisuke_Itō_(film_director)",
+    "label" : "Daisuke Itō (film director)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Daisuke_Oku",
+    "label" : "Daisuke Oku"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Daisuke_Satō",
+    "birthDate" : "1964-04-03",
+    "label" : "Daisuke Satō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Den_Kenjirō",
+    "label" : "Den Kenjirō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Eddie_Imazu",
+    "label" : "Eddie Imazu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Edwin_O._Reischauer",
+    "label" : "Edwin O. Reischauer"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Eiji_Kanie",
+    "label" : "Eiji Kanie"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Eiji_Tsuburaya",
+    "label" : "Eiji Tsuburaya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Eitaro_Ozawa",
+    "label" : "Eitaro Ozawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emiko_Kado",
+    "label" : "Emiko Kado"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Daigo",
+    "label" : "Emperor Daigo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Go-En'yū",
+    "birthDate" : "1359-01-11",
+    "deathDate" : "1393-06-06",
+    "label" : "Emperor Go-En'yū"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Go-Sai",
+    "birthDate" : "1638-01-01",
+    "deathDate" : "1685-03-22",
+    "label" : "Emperor Go-Sai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Higashiyama",
+    "birthDate" : "1675-10-21",
+    "deathDate" : "1710-01-16",
+    "label" : "Emperor Higashiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Kanmu",
+    "birthDate" : "737",
+    "label" : "Emperor Kanmu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Kōmyō",
+    "birthDate" : "1322-01-11",
+    "deathDate" : "1380-07-26",
+    "label" : "Emperor Kōmyō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Meiji",
+    "label" : "Emperor Meiji"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Montoku",
+    "birthDate" : "0826-01-22",
+    "deathDate" : "0858-10-07",
+    "label" : "Emperor Montoku"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Nakamikado",
+    "birthDate" : "1702-01-14",
+    "deathDate" : "1737-05-10",
+    "label" : "Emperor Nakamikado"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Shirakawa",
+    "birthDate" : "1053-07-07",
+    "deathDate" : "1129-07-24",
+    "label" : "Emperor Shirakawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Suinin",
+    "birthDate" : "69",
+    "deathDate" : "70",
+    "label" : "Emperor Suinin"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Sukō",
+    "birthDate" : "1334-05-25",
+    "deathDate" : "1398-01-31",
+    "label" : "Emperor Sukō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Taishō",
+    "label" : "Emperor Taishō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Emperor_Takakura",
+    "birthDate" : "1161-09-20",
+    "deathDate" : "1181-01-30",
+    "label" : "Emperor Takakura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Empress_Genmei",
+    "birthDate" : "--04-23",
+    "label" : "Empress Genmei"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Empress_Go-Sakuramachi",
+    "label" : "Empress Go-Sakuramachi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Empress_Jitō",
+    "birthDate" : "645",
+    "label" : "Empress Jitō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Empress_Kōjun",
+    "label" : "Empress Kōjun"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Empress_Shōken",
+    "label" : "Empress Shōken"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Empress_Teimei",
+    "label" : "Empress Teimei"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Enzo_Matsunaga",
+    "label" : "Enzo Matsunaga"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ernest_Mason_Satow",
+    "label" : "Ernest Mason Satow"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Etsuko_Inada",
+    "birthDate" : "1924-02-08",
+    "deathDate" : "2003-07-08",
+    "label" : "Etsuko Inada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Etō_Shimpei",
+    "label" : "Etō Shimpei"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fujii_Kōichi",
+    "birthDate" : "1858-09-24",
+    "deathDate" : "1926-07-09",
+    "label" : "Fujii Kōichi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fujiko_Fujio",
+    "label" : "Fujiko Fujio"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fujio_Akatsuka",
+    "label" : "Fujio Akatsuka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fukushima_Yasumasa",
+    "birthDate" : "1852-05-27",
+    "deathDate" : "1919-02-19",
+    "label" : "Fukushima Yasumasa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fumiko_Enchi",
+    "label" : "Fumiko Enchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fumiko_Kaneko",
+    "label" : "Fumiko Kaneko"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fumimaro_Konoe",
+    "label" : "Fumimaro Konoe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fumio_Karashima",
+    "label" : "Fumio Karashima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fusajiro_Yamauchi",
+    "label" : "Fusajiro Yamauchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Fusashige_Suzuki",
+    "label" : "Fusashige Suzuki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Futaro_Yamada",
+    "label" : "Futaro Yamada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Futatsuryū_Jun'ichi",
+    "birthDate" : "1950",
+    "label" : "Futatsuryū Jun'ichi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ganjirō_Nakamura",
+    "label" : "Ganjirō Nakamura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Genpei_Akasegawa",
+    "label" : "Genpei Akasegawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Gotō_Shinpei",
+    "label" : "Gotō Shinpei"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Gunichi_Mikawa",
+    "birthDate" : "1888-08-29",
+    "deathDate" : "1981-02-25",
+    "label" : "Gunichi Mikawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Gunpei_Yokoi",
+    "label" : "Gunpei Yokoi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Gōtarō_Ogawa",
+    "label" : "Gōtarō Ogawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hachiro_Kasuga",
+    "label" : "Hachiro Kasuga"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hachisuka_Mochiaki",
+    "label" : "Hachisuka Mochiaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hajime_Sugiyama",
+    "birthDate" : "1880-01-01",
+    "deathDate" : "1945-09-12",
+    "label" : "Hajime Sugiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hara_Takashi",
+    "label" : "Hara Takashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Haruko_Sugimura",
+    "label" : "Haruko Sugimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Haruo_Nakajima",
+    "label" : "Haruo Nakajima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Haruyasu_Nakajima",
+    "label" : "Haruyasu Nakajima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hasegawa_Yoshimichi",
+    "birthDate" : "1850-10-01",
+    "deathDate" : "1924-01-27",
+    "label" : "Hasegawa Yoshimichi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hatazō_Adachi",
+    "birthDate" : "1890-06-17",
+    "deathDate" : "1947-09-10",
+    "label" : "Hatazō Adachi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hayashi_Tadasu",
+    "label" : "Hayashi Tadasu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hayashi_Yūzō",
+    "label" : "Hayashi Yūzō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hayato_Ikeda",
+    "label" : "Hayato Ikeda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Heitarō_Kimura",
+    "birthDate" : "1888-09-28",
+    "deathDate" : "1948-12-23",
+    "label" : "Heitarō Kimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hibari_Misora",
+    "label" : "Hibari Misora"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hide_(musician)",
+    "label" : "Hide (musician)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideki_Irabu",
+    "label" : "Hideki Irabu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideki_Yukawa",
+    "label" : "Hideki Yukawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideko_Maehata",
+    "label" : "Hideko Maehata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideko_Takamine",
+    "label" : "Hideko Takamine"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hidemitsu_Tanaka",
+    "label" : "Hidemitsu Tanaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideo_Den",
+    "label" : "Hideo Den"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideo_Itokawa",
+    "label" : "Hideo Itokawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideo_Kobayashi",
+    "label" : "Hideo Kobayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideo_Murata",
+    "label" : "Hideo Murata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideo_Murota",
+    "label" : "Hideo Murota"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideo_Nagata",
+    "label" : "Hideo Nagata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideo_Shinojima",
+    "label" : "Hideo Shinojima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideo_Yoshino",
+    "label" : "Hideo Yoshino"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hidetaka_Nishiyama",
+    "label" : "Hidetaka Nishiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hidetsugu_Yagi",
+    "label" : "Hidetsugu Yagi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideyo_Noguchi",
+    "label" : "Hideyo Noguchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hideyoshi_Obata",
+    "birthDate" : "1890-04-02",
+    "deathDate" : "1944-08-11",
+    "label" : "Hideyoshi Obata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Higashifushimi_Kunihide",
+    "label" : "Higashifushimi Kunihide"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiranuma_Kiichirō",
+    "label" : "Hiranuma Kiichirō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hirata_Tosuke",
+    "label" : "Hirata Tosuke"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiro_Takahashi",
+    "label" : "Hiro Takahashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroaki_Abe",
+    "birthDate" : "1889-03-15",
+    "deathDate" : "1949-02-06",
+    "label" : "Hiroaki Abe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroaki_Hidaka",
+    "birthDate" : "April 1962",
+    "label" : "Hiroaki Hidaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroaki_Shukuzawa",
+    "birthDate" : "1950-09-01",
+    "deathDate" : "2006-06-17",
+    "label" : "Hiroaki Shukuzawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hirohide_Fushimi",
+    "birthDate" : "1912-10-04",
+    "deathDate" : "1945-08-26",
+    "label" : "Hirohide Fushimi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hirokazu_Kobayashi_(aikidoka)",
+    "label" : "Hirokazu Kobayashi (aikidoka)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroki_Matsukata",
+    "label" : "Hiroki Matsukata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroko_Nagata",
+    "birthDate" : "1945-02-08",
+    "deathDate" : "2011-02-05",
+    "label" : "Hiroko Nagata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiromi_Tsuru",
+    "label" : "Hiromi Tsuru"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiromi_Yanagihara",
+    "label" : "Hiromi Yanagihara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiromichi_Yahara",
+    "birthDate" : "1902-10-12",
+    "deathDate" : "1981-05-07",
+    "label" : "Hiromichi Yahara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiromu_Naruse",
+    "label" : "Hiromu Naruse"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroo_Onoda",
+    "birthDate" : "1922-03-19",
+    "deathDate" : "2014-01-16",
+    "label" : "Hiroo Onoda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroshi_Inagaki",
+    "label" : "Hiroshi Inagaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroshi_Kawaguchi_(actor)",
+    "label" : "Hiroshi Kawaguchi (actor)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroshi_Noma",
+    "label" : "Hiroshi Noma"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroshi_Ohshita",
+    "label" : "Hiroshi Ohshita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroshi_Tsuburaya",
+    "label" : "Hiroshi Tsuburaya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroshi_Yamauchi",
+    "label" : "Hiroshi Yamauchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroshi_Yoshino",
+    "label" : "Hiroshi Yoshino"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hirotaka_Suzuoki",
+    "label" : "Hirotaka Suzuoki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroto_Muraoka",
+    "label" : "Hiroto Muraoka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroyoshi_Nishizawa",
+    "birthDate" : "1920-01-27",
+    "deathDate" : "1944-10-26",
+    "label" : "Hiroyoshi Nishizawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hiroyuki_Nagato",
+    "label" : "Hiroyuki Nagato"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hisahiko_Okazaki",
+    "label" : "Hisahiko Okazaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hisaichi_Terauchi",
+    "birthDate" : "1879-08-08",
+    "deathDate" : "1946-06-12",
+    "label" : "Hisaichi Terauchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hisakazu_Tanaka",
+    "label" : "Hisakazu Tanaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hisao_Tani",
+    "birthDate" : "1882-12-22",
+    "deathDate" : "1947-04-26",
+    "label" : "Hisao Tani"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hisashi_Inoue",
+    "label" : "Hisashi Inoue"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hisaya_Morishige",
+    "label" : "Hisaya Morishige"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hisayasu_Nagata",
+    "label" : "Hisayasu Nagata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hitoshi_Igarashi",
+    "label" : "Hitoshi Igarashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hitoshi_Motoshima",
+    "label" : "Hitoshi Motoshima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hitoshi_Saito",
+    "label" : "Hitoshi Saito"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Hōzan_Yamamoto",
+    "label" : "Hōzan Yamamoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Iccho_Itoh",
+    "label" : "Iccho Itoh"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ichikawa_Raizō_VIII",
+    "label" : "Ichikawa Raizō VIII"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ichiro_Nakagawa",
+    "label" : "Ichiro Nakagawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ichiro_Ogimura",
+    "label" : "Ichiro Ogimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ichirō_Arishima",
+    "label" : "Ichirō Arishima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ichirō_Fujiyama",
+    "label" : "Ichirō Fujiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ichirō_Nagai",
+    "label" : "Ichirō Nagai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ichizō_Kobayashi",
+    "label" : "Ichizō Kobayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Iichirō_Hatoyama",
+    "label" : "Iichirō Hatoyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ijuin_Gorō",
+    "birthDate" : "1852-09-29",
+    "deathDate" : "1921-01-13",
+    "label" : "Ijuin Gorō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ikki_Kajiwara",
+    "birthDate" : "1936-09-04",
+    "deathDate" : "1987-01-21",
+    "label" : "Ikki Kajiwara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ikki_Kita",
+    "label" : "Ikki Kita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Inejiro_Asanuma",
+    "label" : "Inejiro Asanuma"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ineko_Sata",
+    "label" : "Ineko Sata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Inoue_Kaoru",
+    "label" : "Inoue Kaoru"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Inoue_Yoshika",
+    "birthDate" : "1845-11-03",
+    "deathDate" : "1929-03-22",
+    "label" : "Inoue Yoshika"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Inukai_Tsuyoshi",
+    "label" : "Inukai Tsuyoshi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Isamu_Chō",
+    "birthDate" : "1895-01-19",
+    "deathDate" : "1945-06-22",
+    "label" : "Isamu Chō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Isamu_Takeshita",
+    "birthDate" : "1869-12-04",
+    "deathDate" : "1949-07-01",
+    "label" : "Isamu Takeshita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Isamu_Tanonaka",
+    "label" : "Isamu Tanonaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Isamu_Yokoyama",
+    "birthDate" : "1889-03-01",
+    "deathDate" : "1952-04-21",
+    "label" : "Isamu Yokoyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Isao_Inokuma",
+    "label" : "Isao Inokuma"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Isao_Kimura",
+    "label" : "Isao Kimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Isao_Tamagawa",
+    "label" : "Isao Tamagawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Isao_Tomita",
+    "label" : "Isao Tomita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ishimoto_Shinroku",
+    "birthDate" : "1850-04-08",
+    "deathDate" : "1912-04-02",
+    "label" : "Ishimoto Shinroku"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ishirō_Honda",
+    "label" : "Ishirō Honda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Isoroku_Yamamoto",
+    "birthDate" : "1884-04-04",
+    "deathDate" : "1943-04-18",
+    "label" : "Isoroku Yamamoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Itagaki_Taisuke",
+    "label" : "Itagaki Taisuke"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Itō_Sachio",
+    "label" : "Itō Sachio"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Itō_Sukeyuki",
+    "birthDate" : "1843-05-20",
+    "deathDate" : "1914-01-16",
+    "label" : "Itō Sukeyuki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Iwaichi_Fujiwara",
+    "birthDate" : "1908-03-01",
+    "deathDate" : "1986-02-24",
+    "label" : "Iwaichi Fujiwara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Iwane_Matsui",
+    "birthDate" : "1878-07-27",
+    "deathDate" : "1948-12-23",
+    "label" : "Iwane Matsui"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Iwao_Matsuda_(general)",
+    "birthDate" : "1895-02-23",
+    "deathDate" : "1979-03-26",
+    "label" : "Iwao Matsuda (general)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Iwao_Takamoto",
+    "label" : "Iwao Takamoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Izumi_Sakai",
+    "label" : "Izumi Sakai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jackie_Sato",
+    "label" : "Jackie Sato"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jasmine_You",
+    "label" : "Jasmine You"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jinpachi_Nezu",
+    "label" : "Jinpachi Nezu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jinzō_Toriumi",
+    "label" : "Jinzō Toriumi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jiro_Nagasawa",
+    "label" : "Jiro Nagasawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jiro_Taniguchi",
+    "label" : "Jiro Taniguchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jiroemon_Kimura",
+    "label" : "Jiroemon Kimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jisaburō_Ozawa",
+    "birthDate" : "1886-10-02",
+    "deathDate" : "1966-11-09",
+    "label" : "Jisaburō Ozawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jumbo_Tsuruta",
+    "label" : "Jumbo Tsuruta"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jun_Etō",
+    "label" : "Jun Etō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jun_Maki",
+    "label" : "Jun Maki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Junichi_Sasai",
+    "birthDate" : "1918-02-13",
+    "deathDate" : "1942-08-26",
+    "label" : "Junichi Sasai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Junko_Tabei",
+    "label" : "Junko Tabei"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Juzo_Itami",
+    "label" : "Juzo Itami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jōsei_Toda",
+    "label" : "Jōsei Toda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Jūrō_Gotō",
+    "birthDate" : "1887-11-02",
+    "deathDate" : "1984-05-25",
+    "label" : "Jūrō Gotō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kabayama_Sukenori",
+    "birthDate" : "1837-12-09",
+    "deathDate" : "1922-02-08",
+    "label" : "Kabayama Sukenori"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kaiketsu_Masateru",
+    "label" : "Kaiketsu Masateru"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kakuei_Tanaka",
+    "label" : "Kakuei Tanaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kama_Chinen",
+    "label" : "Kama Chinen"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kamatari_Fujiwara",
+    "label" : "Kamatari Fujiwara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kamato_Hongo",
+    "label" : "Kamato Hongo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kamimura_Hikonojō",
+    "birthDate" : "1849-05-01",
+    "deathDate" : "1916-08-08",
+    "label" : "Kamimura Hikonojō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kamio_Mitsuomi",
+    "birthDate" : "1856-02-27",
+    "deathDate" : "1927-02-06",
+    "label" : "Kamio Mitsuomi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kan_Mukai",
+    "label" : "Kan Mukai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kan_Shimozawa",
+    "label" : "Kan Shimozawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kaneto_Shiozawa",
+    "label" : "Kaneto Shiozawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kanji_Ishiwara",
+    "birthDate" : "1889-01-18",
+    "deathDate" : "1949-08-15",
+    "label" : "Kanji Ishiwara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kanjūrō_Arashi",
+    "label" : "Kanjūrō Arashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kanno_Sugako",
+    "label" : "Kanno Sugako"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kantarō_Suzuki",
+    "label" : "Kantarō Suzuki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kaoru_Kobayashi_(murderer)",
+    "birthDate" : "1968-11-30",
+    "deathDate" : "2013-02-21",
+    "label" : "Kaoru Kobayashi (murderer)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kaoru_Kurimoto",
+    "label" : "Kaoru Kurimoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kaoru_Tada",
+    "birthDate" : "1960-09-25",
+    "deathDate" : "1999-03-11",
+    "label" : "Kaoru Tada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kaoru_Yosano",
+    "label" : "Kaoru Yosano"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kasugafuji_Akihiro",
+    "label" : "Kasugafuji Akihiro"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kataoka_Shichirō",
+    "birthDate" : "1854-01-12",
+    "deathDate" : "1920-01-11",
+    "label" : "Kataoka Shichirō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Katsuji_Matsumoto",
+    "birthDate" : "1904-07-25",
+    "deathDate" : "1986-05-13",
+    "label" : "Katsuji Matsumoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Katsura_Tarō",
+    "label" : "Katsura Tarō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Katsusaburō_Yamagiwa",
+    "label" : "Katsusaburō Yamagiwa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Katsutoshi_Nekoda",
+    "birthDate" : "1944",
+    "deathDate" : "1983",
+    "label" : "Katsutoshi Nekoda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Katō_Sadakichi",
+    "birthDate" : "1861-12-19",
+    "deathDate" : "1927-09-05",
+    "label" : "Katō Sadakichi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Katō_Takaaki",
+    "label" : "Katō Takaaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Katō_Tomosaburō",
+    "label" : "Katō Tomosaburō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kawamura_Kageaki",
+    "birthDate" : "1850-04-08",
+    "deathDate" : "1926-04-28",
+    "label" : "Kawamura Kageaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kawamura_Sumiyoshi",
+    "birthDate" : "1836-12-18",
+    "deathDate" : "1904-08-12",
+    "label" : "Kawamura Sumiyoshi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazue_Takahashi",
+    "label" : "Kazue Takahashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuhiko_Kato_(musician)",
+    "label" : "Kazuhiko Kato (musician)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuhisa_Inao",
+    "label" : "Kazuhisa Inao"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuki_Watanabe_(musician)",
+    "label" : "Kazuki Watanabe (musician)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuko_Yanaga",
+    "label" : "Kazuko Yanaga"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazumasa_Hirai_(author)",
+    "label" : "Kazumasa Hirai (author)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazumi_Kawai",
+    "label" : "Kazumi Kawai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuo_Hasegawa",
+    "label" : "Kazuo Hasegawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuo_Mizutani",
+    "birthDate" : "1899-04-22",
+    "deathDate" : "1949-11-25",
+    "label" : "Kazuo Mizutani"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuo_Ohno",
+    "label" : "Kazuo Ohno"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuo_Sakamaki",
+    "birthDate" : "1918-11-08",
+    "deathDate" : "1999-11-29",
+    "label" : "Kazuo Sakamaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuo_Taoka",
+    "label" : "Kazuo Taoka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuyoshi_Miura_(businessman)",
+    "birthDate" : "1947-07-27",
+    "deathDate" : "2008-10-10",
+    "label" : "Kazuyoshi Miura (businessman)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kazuyuki_Sogabe",
+    "label" : "Kazuyuki Sogabe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kei_Tomiyama",
+    "label" : "Kei Tomiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keiji_Sada",
+    "label" : "Keiji Sada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keiji_Shibazaki",
+    "birthDate" : "1894-04-09",
+    "deathDate" : "1943-11-22",
+    "label" : "Keiji Shibazaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keiju_Kobayashi",
+    "label" : "Keiju Kobayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keiko_Awaji",
+    "label" : "Keiko Awaji"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keiko_Hanagata",
+    "label" : "Keiko Hanagata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keiko_Tobe",
+    "birthDate" : "1957",
+    "deathDate" : "2010-01-28",
+    "label" : "Keiko Tobe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keisuke_Kinoshita",
+    "label" : "Keisuke Kinoshita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keisuke_Okada",
+    "label" : "Keisuke Okada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keisuke_Serizawa",
+    "label" : "Keisuke Serizawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Keizō_Hayashi",
+    "birthDate" : "1907-01-08",
+    "deathDate" : "1991-11-12",
+    "label" : "Keizō Hayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ken'ichi_Yamamoto",
+    "label" : "Ken'ichi Yamamoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ken_Harada_(diplomat)",
+    "birthDate" : "1893",
+    "label" : "Ken Harada (diplomat)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ken_Takakura",
+    "label" : "Ken Takakura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ken_Uehara",
+    "label" : "Ken Uehara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ken_Utsui",
+    "label" : "Ken Utsui"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenichi_Fukui",
+    "label" : "Kenichi Fukui"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenji_Doihara",
+    "birthDate" : "1883-08-08",
+    "deathDate" : "1948-12-23",
+    "label" : "Kenji Doihara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenji_Ekuan",
+    "label" : "Kenji Ekuan"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenji_Miyamoto_(politician)",
+    "label" : "Kenji Miyamoto (politician)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenji_Miyazawa",
+    "label" : "Kenji Miyazawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenji_Nagai",
+    "label" : "Kenji Nagai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenji_Tomiki",
+    "label" : "Kenji Tomiki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenji_Yanagiya",
+    "birthDate" : "March 1919",
+    "deathDate" : "2008-02-29",
+    "label" : "Kenji Yanagiya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenkichi_Oshima",
+    "label" : "Kenkichi Oshima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenkō_Satoshi",
+    "label" : "Kenkō Satoshi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kenzō_Masaoka",
+    "label" : "Kenzō Masaoka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kesago_Nakajima",
+    "birthDate" : "1881-06-15",
+    "deathDate" : "1945-10-28",
+    "label" : "Kesago Nakajima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kigoshi_Yasutsuna",
+    "birthDate" : "1854-04-22",
+    "deathDate" : "1932-03-26",
+    "label" : "Kigoshi Yasutsuna"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kihachi_Okamoto",
+    "label" : "Kihachi Okamoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kihachirō_Kawamoto",
+    "label" : "Kihachirō Kawamoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kiichi_Hasegawa",
+    "birthDate" : "1894-04-15",
+    "deathDate" : "1944-03-29",
+    "label" : "Kiichi Hasegawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kiichi_Miyazawa",
+    "label" : "Kiichi Miyazawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kijūrō_Shidehara",
+    "label" : "Kijūrō Shidehara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kikuko,_Princess_Takamatsu",
+    "label" : "Kikuko, Princess Takamatsu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kikuko_Kawakami",
+    "label" : "Kikuko Kawakami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kinji_Fukasaku",
+    "label" : "Kinji Fukasaku"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kinuyo_Tanaka",
+    "label" : "Kinuyo Tanaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kinya_Aikawa",
+    "label" : "Kinya Aikawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kitsuju_Ayabe",
+    "birthDate" : "1894-04-18",
+    "deathDate" : "1980-02-14",
+    "label" : "Kitsuju Ayabe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kiyonao_Ichiki",
+    "birthDate" : "1892-10-16",
+    "deathDate" : "1942-08-21",
+    "label" : "Kiyonao Ichiki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kiyoshi_Kodama",
+    "label" : "Kiyoshi Kodama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kiyoshi_Ogawa",
+    "birthDate" : "1922-10-23",
+    "deathDate" : "1945-05-11",
+    "label" : "Kiyoshi Ogawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kiyoshi_Shiga",
+    "label" : "Kiyoshi Shiga"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kiyotaka_Katsuta",
+    "birthDate" : "1948-08-29",
+    "deathDate" : "2000-11-30",
+    "label" : "Kiyotaka Katsuta"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kobayashi_Kiyochika",
+    "label" : "Kobayashi Kiyochika"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kodō_Nomura",
+    "label" : "Kodō Nomura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Koichiro_Kimura",
+    "label" : "Koichiro Kimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Koji_Kondo_(footballer)",
+    "label" : "Koji Kondo (footballer)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Koji_Shima",
+    "label" : "Koji Shima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Komura_Jutarō",
+    "label" : "Komura Jutarō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kon_Ichikawa",
+    "label" : "Kon Ichikawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kondō_Isami",
+    "label" : "Kondō Isami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Konoe_Atsumaro",
+    "label" : "Konoe Atsumaro"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Korechika_Anami",
+    "birthDate" : "1887-02-21",
+    "deathDate" : "1945-08-15",
+    "label" : "Korechika Anami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Koreyoshi_Kurahara",
+    "label" : "Koreyoshi Kurahara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kosaku_Yamada",
+    "label" : "Kosaku Yamada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kosei_Kamo",
+    "label" : "Kosei Kamo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kozo_Kinomoto",
+    "label" : "Kozo Kinomoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kuniaki_Koiso",
+    "label" : "Kuniaki Koiso"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kuninori_Marumo",
+    "birthDate" : "1891-10-02",
+    "deathDate" : "1985-06-24",
+    "label" : "Kuninori Marumo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kunio_Hatoyama",
+    "label" : "Kunio Hatoyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kunio_Maekawa",
+    "label" : "Kunio Maekawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kunio_Nakagawa",
+    "birthDate" : "1898-01-23",
+    "deathDate" : "1944-11-24",
+    "label" : "Kunio Nakagawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kuroki_Tamemoto",
+    "birthDate" : "1844-05-03",
+    "deathDate" : "1923-02-03",
+    "label" : "Kuroki Tamemoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kusunose_Yukihiko",
+    "birthDate" : "1858-04-20",
+    "deathDate" : "1927-03-20",
+    "label" : "Kusunose Yukihiko"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kusuo_Kitamura",
+    "label" : "Kusuo Kitamura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kyozan_Joshu_Sasaki",
+    "label" : "Kyozan Joshu Sasaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kyu_Sakamoto",
+    "label" : "Kyu Sakamoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kyōsuke_Eto",
+    "birthDate" : "1880-06-15",
+    "deathDate" : "1917-07-19",
+    "label" : "Kyōsuke Eto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōbō_Abe",
+    "label" : "Kōbō Abe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōji_Nanbara",
+    "label" : "Kōji Nanbara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōji_Tsuruta",
+    "label" : "Kōji Tsuruta"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōji_Wada",
+    "label" : "Kōji Wada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōji_Yada",
+    "label" : "Kōji Yada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōki_Hirota",
+    "label" : "Kōki Hirota"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōkichi_Tsuburaya",
+    "label" : "Kōkichi Tsuburaya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōno_Togama",
+    "label" : "Kōno Togama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōsō_Abe",
+    "birthDate" : "1892-03-24",
+    "deathDate" : "1947-06-19",
+    "label" : "Kōsō Abe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Kōzō_Murashita",
+    "label" : "Kōzō Murashita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Machiko_Hasegawa",
+    "label" : "Machiko Hasegawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Maeda_Toshiie",
+    "label" : "Maeda Toshiie"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Maki_Asakawa",
+    "label" : "Maki Asakawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Makoto_Fujita",
+    "label" : "Makoto Fujita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mamoru_Takuma",
+    "label" : "Mamoru Takuma"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mana_Nishiura",
+    "label" : "Mana Nishiura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mao_Kobayashi_(actress)",
+    "label" : "Mao Kobayashi (actress)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaaki_Iinuma",
+    "label" : "Masaaki Iinuma"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaaki_Tsukada",
+    "label" : "Masaaki Tsukada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masafumi_Arima",
+    "birthDate" : "1895-09-25",
+    "deathDate" : "1944-10-15",
+    "label" : "Masafumi Arima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaharu_Homma",
+    "label" : "Masaharu Homma"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masahide_Ōta",
+    "label" : "Masahide Ōta"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masahiko_Amakasu",
+    "label" : "Masahiko Amakasu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masahiro_Makino",
+    "label" : "Masahiro Makino"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masahisa_Takenaka",
+    "label" : "Masahisa Takenaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaichi_Niimi",
+    "label" : "Masaichi Niimi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaji_Kitano",
+    "birthDate" : "1894-07-14",
+    "deathDate" : "1986-05-17",
+    "label" : "Masaji Kitano"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaji_Kiyokawa",
+    "label" : "Masaji Kiyokawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masako_Natsume",
+    "label" : "Masako Natsume"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masanobu_Fukuoka",
+    "label" : "Masanobu Fukuoka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masanori_Tokita",
+    "label" : "Masanori Tokita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masao_Baba",
+    "birthDate" : "1892-01-07",
+    "deathDate" : "1947-08-07",
+    "label" : "Masao Baba"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masao_Fujii",
+    "label" : "Masao Fujii"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masao_Harada",
+    "label" : "Masao Harada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masao_Nakamura",
+    "birthDate" : "1892-05-15",
+    "deathDate" : "1939-12-25",
+    "label" : "Masao Nakamura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masao_Sasakibara",
+    "birthDate" : "1921",
+    "deathDate" : "2005",
+    "label" : "Masao Sasakibara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaoka_Shiki",
+    "label" : "Masaoka Shiki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaomi_Yasuoka",
+    "birthDate" : "1886-07-21",
+    "deathDate" : "1948-04-12",
+    "label" : "Masaomi Yasuoka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaru_Emoto",
+    "label" : "Masaru Emoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaru_Ibuka",
+    "label" : "Masaru Ibuka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masaru_Nashimoto",
+    "label" : "Masaru Nashimoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masashi_Amenomori",
+    "label" : "Masashi Amenomori"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masatane_Kanda",
+    "birthDate" : "1890-04-24",
+    "deathDate" : "1983-01-15",
+    "label" : "Masatane Kanda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masato_Furuoya",
+    "label" : "Masato Furuoya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masato_Yamanouchi",
+    "label" : "Masato Yamanouchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masatoshi_Nakayama",
+    "label" : "Masatoshi Nakayama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masayoshi_Ito",
+    "label" : "Masayoshi Ito"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masayoshi_Ōhira",
+    "label" : "Masayoshi Ōhira"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masayuki_Minami",
+    "label" : "Masayuki Minami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masayuki_Mori_(actor)",
+    "label" : "Masayuki Mori (actor)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masazumi_Inada",
+    "birthDate" : "1896-08-27",
+    "deathDate" : "1986-01-24",
+    "label" : "Masazumi Inada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masuiyama_Daishirō_I",
+    "label" : "Masuiyama Daishirō I"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Masumi_Okada",
+    "label" : "Masumi Okada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Matome_Ugaki",
+    "birthDate" : "1890-02-15",
+    "deathDate" : "1945-08-15",
+    "label" : "Matome Ugaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Matsuji_Ijuin",
+    "birthDate" : "1893-04-21",
+    "deathDate" : "1944-05-24",
+    "label" : "Matsuji Ijuin"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Matsukata_Masayoshi",
+    "label" : "Matsukata Masayoshi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Matsunobori_Shigeo",
+    "label" : "Matsunobori Shigeo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Matsutarō_Kawaguchi",
+    "label" : "Matsutarō Kawaguchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Meisei_Goto",
+    "label" : "Meisei Goto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Michiaki_Kamada",
+    "birthDate" : "1890-01-15",
+    "deathDate" : "1947-10-18",
+    "label" : "Michiaki Kamada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Michiko_Inukai",
+    "label" : "Michiko Inukai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Michio_Hikitsuchi",
+    "label" : "Michio Hikitsuchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Michio_Takeyama",
+    "label" : "Michio Takeyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Michiya_Mihashi",
+    "label" : "Michiya Mihashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Michiyo_Kogure",
+    "label" : "Michiyo Kogure"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Midori_Naka",
+    "label" : "Midori Naka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mieko_Kamiya",
+    "label" : "Mieko Kamiya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mikijirō_Hira",
+    "label" : "Mikijirō Hira"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mikio_Oda",
+    "label" : "Mikio Oda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Minako_Honda",
+    "label" : "Minako Honda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mineichi_Koga",
+    "birthDate" : "1885-09-25",
+    "deathDate" : "1944-03-31",
+    "label" : "Mineichi Koga"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Minoru_Chiaki",
+    "label" : "Minoru Chiaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Minoru_Genda",
+    "birthDate" : "1904-08-16",
+    "deathDate" : "1989-08-15",
+    "label" : "Minoru Genda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Misao_Okawa",
+    "label" : "Misao Okawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitoyo_Kawate",
+    "label" : "Mitoyo Kawate"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitsuharu_Misawa",
+    "label" : "Mitsuharu Misawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitsuko_Yoshikawa",
+    "label" : "Mitsuko Yoshikawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitsukuri_Rinsho",
+    "label" : "Mitsukuri Rinsho"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitsumasa_Yonai",
+    "label" : "Mitsumasa Yonai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitsuo_Fuchida",
+    "birthDate" : "1902-12-03",
+    "deathDate" : "--05-30",
+    "label" : "Mitsuo Fuchida"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitsuo_Higashinaka",
+    "label" : "Mitsuo Higashinaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitsuo_Ikeda",
+    "label" : "Mitsuo Ikeda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitsuru_Ushijima",
+    "birthDate" : "1887-07-31",
+    "deathDate" : "1945-06-22",
+    "label" : "Mitsuru Ushijima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mitsuru_Yoshida",
+    "label" : "Mitsuru Yoshida"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Miyoshi_Umeki",
+    "label" : "Miyoshi Umeki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Miyu_Matsuki",
+    "label" : "Miyu Matsuki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Miyu_Uehara",
+    "label" : "Miyu Uehara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Miyuki_Kanbe",
+    "label" : "Miyuki Kanbe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mochitsura_Hashimoto",
+    "birthDate" : "1909-10-14",
+    "deathDate" : "2000-10-25",
+    "label" : "Mochitsura Hashimoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mokutaro_Kinoshita",
+    "label" : "Mokutaro Kinoshita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Momofuku_Ando",
+    "label" : "Momofuku Ando"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Momoko_Ishii",
+    "label" : "Momoko Ishii"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Momoko_Kōchi",
+    "label" : "Momoko Kōchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Monzo_Akiyama",
+    "birthDate" : "1891-12-30",
+    "deathDate" : "1944-01-25",
+    "label" : "Monzo Akiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mori_Ōgai",
+    "birthDate" : "1862-02-17",
+    "deathDate" : "1922-07-08",
+    "label" : "Mori Ōgai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Morihei_Ueshiba",
+    "label" : "Morihei Ueshiba"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Morihiro_Hashimoto",
+    "label" : "Morihiro Hashimoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Morihiro_Saito",
+    "label" : "Morihiro Saito"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Morita_Sōhei",
+    "label" : "Morita Sōhei"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Moritake_Tanabe",
+    "birthDate" : "1889-02-26",
+    "deathDate" : "1949-07-10",
+    "label" : "Moritake Tanabe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Motojirō_Kajii",
+    "label" : "Motojirō Kajii"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Motono_Ichirō",
+    "label" : "Motono Ichirō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Motoo_Kimura",
+    "label" : "Motoo Kimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mr._Hito",
+    "label" : "Mr. Hito"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Muga_Takewaki",
+    "label" : "Muga Takewaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Murakami_Kakuichi",
+    "birthDate" : "1862-11-01",
+    "deathDate" : "1927-11-15",
+    "label" : "Murakami Kakuichi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mushitaro_Oguri",
+    "label" : "Mushitaro Oguri"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Mutsuko_Sakura",
+    "label" : "Mutsuko Sakura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nabeshima_Naohiro_(Saga)",
+    "label" : "Nabeshima Naohiro (Saga)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nagisa_Oshima",
+    "label" : "Nagisa Oshima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Naoki_Matsuda",
+    "label" : "Naoki Matsuda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Naoto_Tajima",
+    "label" : "Naoto Tajima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nashiba_Tokioki",
+    "birthDate" : "1850-09-24",
+    "deathDate" : "1924-10-24",
+    "label" : "Nashiba Tokioki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Natsume_Sōseki",
+    "label" : "Natsume Sōseki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nishi_Tokujirō",
+    "label" : "Nishi Tokujirō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nishimura_Shigeki",
+    "label" : "Nishimura Shigeki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Noboru_Akiyama",
+    "label" : "Noboru Akiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Noboru_Takeshita",
+    "label" : "Noboru Takeshita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Noboru_Terada",
+    "label" : "Noboru Terada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Noboru_Yamaguchi_(author)",
+    "label" : "Noboru Yamaguchi (author)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobuo_Arai",
+    "birthDate" : "1909",
+    "label" : "Nobuo Arai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobuo_Fujita",
+    "birthDate" : "1911",
+    "deathDate" : "1997-09-30",
+    "label" : "Nobuo Fujita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobuo_Nakamura",
+    "label" : "Nobuo Nakamura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobusuke_Kishi",
+    "label" : "Nobusuke Kishi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobutaka_Machimura",
+    "label" : "Nobutaka Machimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobutake_Kondō",
+    "birthDate" : "1886-09-25",
+    "deathDate" : "1953-02-19",
+    "label" : "Nobutake Kondō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobuyoshi_Mutō",
+    "birthDate" : "1868-07-15",
+    "deathDate" : "1933-07-27",
+    "label" : "Nobuyoshi Mutō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobuyoshi_Tamura",
+    "label" : "Nobuyoshi Tamura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobuyuki_Abe",
+    "label" : "Nobuyuki Abe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobuyuki_Sekiyama",
+    "label" : "Nobuyuki Sekiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nobuzo_Tohmatsu",
+    "birthDate" : "1896-04-25",
+    "deathDate" : "1980-12-28",
+    "label" : "Nobuzo Tohmatsu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Noda_Utarō",
+    "label" : "Noda Utarō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Noe_Itō",
+    "label" : "Noe Itō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nogi_Maresuke",
+    "birthDate" : "1849-12-25",
+    "deathDate" : "1912-09-13",
+    "label" : "Nogi Maresuke"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Norifumi_Abe",
+    "label" : "Norifumi Abe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Noriko_Awaya",
+    "label" : "Noriko Awaya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Noriko_Tsukase",
+    "label" : "Noriko Tsukase"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Norio_Nagayama",
+    "birthDate" : "1949-06-27",
+    "deathDate" : "1997-08-01",
+    "label" : "Norio Nagayama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Norio_Ohga",
+    "label" : "Norio Ohga"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nozomi_Momoi",
+    "label" : "Nozomi Momoi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Nujabes",
+    "label" : "Nujabes"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ogasawara_Naganari",
+    "birthDate" : "1867-12-15",
+    "deathDate" : "1958-09-20",
+    "label" : "Ogasawara Naganari"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Oku_Yasukata",
+    "birthDate" : "1847-01-05",
+    "deathDate" : "1930-07-19",
+    "label" : "Oku Yasukata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/On_Kawara",
+    "label" : "On Kawara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Osachi_Hamaguchi",
+    "label" : "Osachi Hamaguchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Osami_Nagano",
+    "birthDate" : "1880-06-15",
+    "deathDate" : "1947-01-05",
+    "label" : "Osami Nagano"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Osamu_Dazai",
+    "label" : "Osamu Dazai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Osamu_Dezaki",
+    "label" : "Osamu Dezaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Osamu_Kobayashi_(voice_actor)",
+    "label" : "Osamu Kobayashi (voice actor)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Osamu_Takizawa",
+    "label" : "Osamu Takizawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Osamu_Tezuka",
+    "birthDate" : "1928-11-03",
+    "deathDate" : "1989-02-09",
+    "label" : "Osamu Tezuka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Peter_Baptist_Tadamaro_Ishigami",
+    "label" : "Peter Baptist Tadamaro Ishigami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Arisugawa_Takehito",
+    "birthDate" : "1862-01-13",
+    "deathDate" : "1913-07-05",
+    "label" : "Prince Arisugawa Takehito"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Arisugawa_Taruhito",
+    "birthDate" : "1835-03-17",
+    "deathDate" : "1895-01-15",
+    "label" : "Prince Arisugawa Taruhito"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Fushimi_Hiroyasu",
+    "birthDate" : "1875-10-16",
+    "deathDate" : "1946-08-16",
+    "label" : "Prince Fushimi Hiroyasu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Fushimi_Hiroyoshi",
+    "label" : "Prince Fushimi Hiroyoshi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Fushimi_Sadanaru",
+    "birthDate" : "1858-06-09",
+    "deathDate" : "1923-02-04",
+    "label" : "Prince Fushimi Sadanaru"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Higashifushimi_Yorihito",
+    "birthDate" : "1867-09-19",
+    "deathDate" : "1922-06-27",
+    "label" : "Prince Higashifushimi Yorihito"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Kachō_Hirotada",
+    "label" : "Prince Kachō Hirotada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Kan'in_Haruhito",
+    "birthDate" : "1902-08-03",
+    "deathDate" : "1988-06-14",
+    "label" : "Prince Kan'in Haruhito"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Kitashirakawa_Satonari",
+    "label" : "Prince Kitashirakawa Satonari"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Kitashirakawa_Yoshihisa",
+    "birthDate" : "1847-04-01",
+    "deathDate" : "1895-11-05",
+    "label" : "Prince Kitashirakawa Yoshihisa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Nagahisa_Kitashirakawa",
+    "birthDate" : "1910-02-19",
+    "deathDate" : "1940-09-04",
+    "label" : "Prince Nagahisa Kitashirakawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Prince_Tsunehisa_Takeda",
+    "birthDate" : "1882-09-28",
+    "deathDate" : "1919-04-23",
+    "label" : "Prince Tsunehisa Takeda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Princess_Nobuko_Asaka",
+    "label" : "Princess Nobuko Asaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Raizō_Tanaka",
+    "birthDate" : "1892-04-27",
+    "deathDate" : "1969-07-09",
+    "label" : "Raizō Tanaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ramo_Nakajima",
+    "label" : "Ramo Nakajima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Rei_Harakami",
+    "label" : "Rei Harakami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Reiko_Mutō",
+    "label" : "Reiko Mutō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Reizo_Koike",
+    "label" : "Reizo Koike"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Riichi_Yokomitsu",
+    "label" : "Riichi Yokomitsu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Rikichi_Andō",
+    "birthDate" : "1884-04-03",
+    "deathDate" : "1946-04-19",
+    "label" : "Rikichi Andō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Rokurō_Naya",
+    "label" : "Rokurō Naya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Runa_Akiyama",
+    "label" : "Runa Akiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ryo_Kagawa",
+    "label" : "Ryo Kagawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ryusaku_Yanagimoto",
+    "birthDate" : "1894-09-01",
+    "deathDate" : "1942-06-05",
+    "label" : "Ryusaku Yanagimoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ryutaro_Hashimoto",
+    "label" : "Ryutaro Hashimoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ryō_Ikebe",
+    "label" : "Ryō Ikebe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ryōtarō_Shiba",
+    "label" : "Ryōtarō Shiba"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ryūji_Saikachi",
+    "label" : "Ryūji Saikachi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ryūnosuke_Akutagawa",
+    "label" : "Ryūnosuke Akutagawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ryūtarō_Ōtomo",
+    "label" : "Ryūtarō Ōtomo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Saburo_Aizawa",
+    "label" : "Saburo Aizawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Saburō_Sakai",
+    "birthDate" : "1916-08-25",
+    "deathDate" : "2000-09-22",
+    "label" : "Saburō Sakai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sachiko,_Princess_Hisa",
+    "label" : "Sachiko, Princess Hisa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sachiko_Hidari",
+    "label" : "Sachiko Hidari"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sadaaki_Akamatsu",
+    "birthDate" : "1910-07-30",
+    "deathDate" : "1980-02-22",
+    "label" : "Sadaaki Akamatsu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sadako_Sasaki",
+    "label" : "Sadako Sasaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sadanoyama_Shinmatsu",
+    "label" : "Sadanoyama Shinmatsu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sadao_Yamanaka",
+    "label" : "Sadao Yamanaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sadateru_Arikawa",
+    "label" : "Sadateru Arikawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Saeko_Himuro",
+    "label" : "Saeko Himuro"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Saigō_Jūdō",
+    "birthDate" : "1843-06-01",
+    "deathDate" : "1902-07-18",
+    "label" : "Saigō Jūdō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Saitō_Hajime",
+    "birthDate" : "1844-02-18",
+    "deathDate" : "1915-09-28",
+    "label" : "Saitō Hajime"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Saitō_Makoto",
+    "label" : "Saitō Makoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sakae_Ōba",
+    "birthDate" : "1914-03-21",
+    "deathDate" : "1992-06-08",
+    "label" : "Sakae Ōba"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sakae_Ōsugi",
+    "label" : "Sakae Ōsugi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sakuma_Samata",
+    "birthDate" : "1844-11-19",
+    "deathDate" : "1915-08-05",
+    "label" : "Sakuma Samata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sakyo_Komatsu",
+    "label" : "Sakyo Komatsu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sanji_Hase",
+    "label" : "Sanji Hase"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sanji_Iwabuchi",
+    "birthDate" : "1895-03-02",
+    "deathDate" : "1945-02-26",
+    "label" : "Sanji Iwabuchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sanjō_Sanetomi",
+    "label" : "Sanjō Sanetomi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sano_Tsunetami",
+    "label" : "Sano Tsunetami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sasaki_Takayuki",
+    "label" : "Sasaki Takayuki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Satarō_Fukiage",
+    "birthDate" : "February 1889",
+    "deathDate" : "1926-09-28",
+    "label" : "Satarō Fukiage"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Satoru_Anabuki",
+    "birthDate" : "1921-12-05",
+    "label" : "Satoru Anabuki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Satoru_Iwata",
+    "label" : "Satoru Iwata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Satoru_Kobayashi_(director)",
+    "label" : "Satoru Kobayashi (director)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Satoshi_Kon",
+    "label" : "Satoshi Kon"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Seiji_Aochi",
+    "label" : "Seiji Aochi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Seiji_Hisamatsu",
+    "label" : "Seiji Hisamatsu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Seiji_Miyaguchi",
+    "label" : "Seiji Miyaguchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Seijun_Suzuki",
+    "label" : "Seijun Suzuki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Seishi_Yokomizo",
+    "label" : "Seishi Yokomizo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Seishirō_Itagaki",
+    "birthDate" : "1885-01-21",
+    "deathDate" : "1948-12-23",
+    "label" : "Seishirō Itagaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Seizō_Katō",
+    "label" : "Seizō Katō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Senichi_Hoshino",
+    "label" : "Senichi Hoshino"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Senjūrō_Hayashi",
+    "label" : "Senjūrō Hayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Senkichi_Awaya",
+    "label" : "Senkichi Awaya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sentarō_Ōmori",
+    "birthDate" : "1892-10-03",
+    "deathDate" : "1974-12-24",
+    "label" : "Sentarō Ōmori"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Setsuko_Hara",
+    "label" : "Setsuko Hara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigechiyo_Izumi",
+    "label" : "Shigechiyo Izumi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigekazu_Shimazaki",
+    "birthDate" : "1908-09-09",
+    "deathDate" : "1945-01-09",
+    "label" : "Shigekazu Shimazaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigematsu_Sakaibara",
+    "birthDate" : "1898-12-28",
+    "deathDate" : "1947-06-18",
+    "label" : "Shigematsu Sakaibara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigenori_Tōgō",
+    "label" : "Shigenori Tōgō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigeo_Arai",
+    "label" : "Shigeo Arai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigeo_Sugiura",
+    "label" : "Shigeo Sugiura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigeo_Yaegashi",
+    "label" : "Shigeo Yaegashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigeru_Egami",
+    "label" : "Shigeru Egami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigeru_Honjō",
+    "birthDate" : "1876-05-10",
+    "deathDate" : "1945-11-30",
+    "label" : "Shigeru Honjō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigeru_Kōyama",
+    "label" : "Shigeru Kōyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigeru_Yoshida",
+    "label" : "Shigeru Yoshida"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shigetarō_Shimada",
+    "birthDate" : "1883-09-24",
+    "deathDate" : "1976-06-07",
+    "label" : "Shigetarō Shimada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shiho_Niiyama",
+    "label" : "Shiho Niiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shimaki_Kensaku",
+    "label" : "Shimaki Kensaku"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shimamura_Hayao",
+    "birthDate" : "1858-09-21",
+    "deathDate" : "1923-01-08",
+    "label" : "Shimamura Hayao"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shin_Saburi",
+    "label" : "Shin Saburi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shinichi_Suzuki_(violinist)",
+    "label" : "Shinichi Suzuki (violinist)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shinichiro_Sakurai",
+    "label" : "Shinichiro Sakurai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shinji_Maki",
+    "label" : "Shinji Maki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shinji_Mori",
+    "label" : "Shinji Mori"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shinji_Ogawa",
+    "label" : "Shinji Ogawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shinji_Sōmai",
+    "label" : "Shinji Sōmai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shintaro_Abe",
+    "label" : "Shintaro Abe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shintaro_Katsu",
+    "label" : "Shintaro Katsu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shintarō_Hashimoto",
+    "birthDate" : "1892-05-11",
+    "deathDate" : "1945-05-16",
+    "label" : "Shintarō Hashimoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shinya_Hashimoto",
+    "label" : "Shinya Hashimoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shirō_Nonaka",
+    "birthDate" : "1903-10-27",
+    "deathDate" : "1936-02-29",
+    "label" : "Shirō Nonaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shizo_Kanakuri",
+    "label" : "Shizo Kanakuri"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shizuichi_Tanaka",
+    "label" : "Shizuichi Tanaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shizuko_Kasagi",
+    "label" : "Shizuko Kasagi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shohachi_Ishii",
+    "label" : "Shohachi Ishii"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shoichi_Arai",
+    "label" : "Shoichi Arai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shokichi_Iyanaga",
+    "label" : "Shokichi Iyanaga"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shotaro_Ishinomori",
+    "label" : "Shotaro Ishinomori"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shoya_Tomizawa",
+    "label" : "Shoya Tomizawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shunichiro_Okano",
+    "label" : "Shunichiro Okano"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shunji_Fujimura",
+    "label" : "Shunji Fujimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shunji_Isaki",
+    "birthDate" : "1892-02-05",
+    "deathDate" : "1943-07-12",
+    "label" : "Shunji Isaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shunsaku_Kudō",
+    "birthDate" : "1901-01-07",
+    "deathDate" : "1979-01-12",
+    "label" : "Shunsaku Kudō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shunsuke_Ikeda",
+    "label" : "Shunsuke Ikeda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shusaku_Arakawa",
+    "label" : "Shusaku Arakawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shōgo_Shimada_(actor)",
+    "label" : "Shōgo Shimada (actor)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shōgorō_Nishimura",
+    "label" : "Shōgorō Nishimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shōichi_Nakagawa",
+    "label" : "Shōichi Nakagawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shōji_Nakayama",
+    "label" : "Shōji Nakayama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shōjirō_Iida",
+    "birthDate" : "1888-08-08",
+    "deathDate" : "1980-01-23",
+    "label" : "Shōjirō Iida"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shōzō_Sakurai",
+    "birthDate" : "1889-06-27",
+    "deathDate" : "1985-07-07",
+    "label" : "Shōzō Sakurai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shūichi_Katō_(critic)",
+    "label" : "Shūichi Katō (critic)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shūji_Terayama",
+    "label" : "Shūji Terayama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Shūsui_Kōtoku",
+    "label" : "Shūsui Kōtoku"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sohn_Kee-chung",
+    "label" : "Sohn Kee-chung"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Soichi_Ichida",
+    "label" : "Soichi Ichida"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Soichiro_Honda",
+    "label" : "Soichiro Honda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sone_Arasuke",
+    "label" : "Sone Arasuke"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Soyen_Shaku",
+    "label" : "Soyen Shaku"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Suematsu_Kenchō",
+    "label" : "Suematsu Kenchō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sumiko_Kurishima",
+    "label" : "Sumiko Kurishima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sumire_(model)",
+    "label" : "Sumire (model)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sumiteru_Taniguchi",
+    "label" : "Sumiteru Taniguchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Susumu_Kimura",
+    "birthDate" : "1891-06-01",
+    "deathDate" : "1980-03-16",
+    "label" : "Susumu Kimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sōjin_Kamiyama",
+    "label" : "Sōjin Kamiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sōkichi_Takagi",
+    "birthDate" : "1893-08-09",
+    "deathDate" : "1979-07-27",
+    "label" : "Sōkichi Takagi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Sōsuke_Uno",
+    "label" : "Sōsuke Uno"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tachibana_Shūta",
+    "birthDate" : "1865-11-03",
+    "deathDate" : "1904-08-31",
+    "label" : "Tachibana Shūta"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tadamichi_Kuribayashi",
+    "birthDate" : "1891-07-07",
+    "deathDate" : "--03-26",
+    "label" : "Tadamichi Kuribayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tadashige_Daigo",
+    "birthDate" : "1891-10-15",
+    "deathDate" : "1947-12-06",
+    "label" : "Tadashige Daigo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Taeko_Kono",
+    "label" : "Taeko Kono"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Taichirō_Hirokawa",
+    "label" : "Taichirō Hirokawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Taiji_Kase",
+    "label" : "Taiji Kase"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Taitetsu_Unno",
+    "label" : "Taitetsu Unno"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Taizo_Nishimuro",
+    "label" : "Taizo Nishimuro"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takahashi_Yuichi",
+    "label" : "Takahashi Yuichi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takahiko_Yamanouchi",
+    "label" : "Takahiko Yamanouchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takahiro_Itō",
+    "label" : "Takahiro Itō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takahiro_Tamura",
+    "label" : "Takahiro Tamura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takaji_Mori",
+    "label" : "Takaji Mori"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takanonami_Sadahiro",
+    "label" : "Takanonami Sadahiro"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takanori_Arisawa",
+    "label" : "Takanori Arisawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takao_Iwami",
+    "label" : "Takao Iwami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takashi_Sakai",
+    "label" : "Takashi Sakai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takashima_Tomonosuke",
+    "birthDate" : "1844-12-18",
+    "deathDate" : "1916-01-11",
+    "label" : "Takashima Tomonosuke"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeichi_Nishi",
+    "birthDate" : "1902-07-12",
+    "deathDate" : "1945-03-22",
+    "label" : "Takeichi Nishi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeo_Arishima",
+    "label" : "Takeo Arishima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeo_Doi",
+    "label" : "Takeo Doi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeo_Fukuda",
+    "label" : "Takeo Fukuda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeo_Hirose",
+    "label" : "Takeo Hirose"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeo_Kimura",
+    "label" : "Takeo Kimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeo_Kurita",
+    "birthDate" : "1889-04-28",
+    "deathDate" : "1977-12-19",
+    "label" : "Takeo Kurita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeo_Miki",
+    "label" : "Takeo Miki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeo_Takagi",
+    "birthDate" : "1892-01-25",
+    "deathDate" : "1944-07-08",
+    "label" : "Takeo Takagi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeo_Watanabe",
+    "label" : "Takeo Watanabe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeshi_Kusaka",
+    "label" : "Takeshi Kusaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeshi_Sakurada",
+    "birthDate" : "1891-12-08",
+    "deathDate" : "1943-09-10",
+    "label" : "Takeshi Sakurada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeshi_Shudo",
+    "label" : "Takeshi Shudo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takeshi_Takashina",
+    "birthDate" : "1891-01-25",
+    "deathDate" : "1944-07-28",
+    "label" : "Takeshi Takashina"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takiji_Kobayashi",
+    "label" : "Takiji Kobayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takijirō_Ōnishi",
+    "birthDate" : "1891-06-02",
+    "deathDate" : "1945-08-16",
+    "label" : "Takijirō Ōnishi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takuma_Nishimura",
+    "birthDate" : "1899-09-01",
+    "deathDate" : "1951-06-11",
+    "label" : "Takuma Nishimura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takumi_Shibano",
+    "label" : "Takumi Shibano"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Takuya_Kimura_(baseball)",
+    "label" : "Takuya Kimura (baseball)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tameichi_Hara",
+    "birthDate" : "1900-10-16",
+    "deathDate" : "1980-10-10",
+    "label" : "Tameichi Hara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tamio_Ōki",
+    "label" : "Tamio Ōki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tamon_Yamaguchi",
+    "birthDate" : "1892-08-17",
+    "deathDate" : "1942-06-04",
+    "label" : "Tamon Yamaguchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tamotsu_Oishi",
+    "birthDate" : "1900-01-28",
+    "deathDate" : "1946-02-13",
+    "label" : "Tamotsu Oishi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tamura_Taijiro",
+    "label" : "Tamura Taijiro"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tanaka_Giichi",
+    "label" : "Tanaka Giichi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tanie_Kitabayashi",
+    "label" : "Tanie Kitabayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tarō_Okamoto",
+    "label" : "Tarō Okamoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tatsugo_Kawaishi",
+    "label" : "Tatsugo Kawaishi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tatsuhiko_Shibusawa",
+    "label" : "Tatsuhiko Shibusawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tatsumi_Kumashiro",
+    "label" : "Tatsumi Kumashiro"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tatsuo_Shimabuku",
+    "label" : "Tatsuo Shimabuku"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tatsuzō_Ishikawa",
+    "label" : "Tatsuzō Ishikawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Teinosuke_Kinugasa",
+    "label" : "Teinosuke Kinugasa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Terauchi_Masatake",
+    "label" : "Terauchi Masatake"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Teruji_Kogake",
+    "label" : "Teruji Kogake"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Teruo_Akiyama",
+    "birthDate" : "1891-09-16",
+    "deathDate" : "1943-07-06",
+    "label" : "Teruo Akiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Teruo_Ishii",
+    "label" : "Teruo Ishii"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tesshin_Okada",
+    "label" : "Tesshin Okada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tetsuharu_Kawakami",
+    "label" : "Tetsuharu Kawakami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tetsuo_Mizutori",
+    "label" : "Tetsuo Mizutori"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tetsuo_Narikawa",
+    "label" : "Tetsuo Narikawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tetsurō_Tamba",
+    "label" : "Tetsurō Tamba"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tetsuya_Ishida",
+    "label" : "Tetsuya Ishida"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tetsuzan_Nagata",
+    "birthDate" : "1884-01-14",
+    "deathDate" : "1935-08-12",
+    "label" : "Tetsuzan Nagata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toku_Nishio",
+    "label" : "Toku Nishio"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tokugawa_Ieyasu",
+    "label" : "Tokugawa Ieyasu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tokugawa_Mitsukuni",
+    "label" : "Tokugawa Mitsukuni"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tokugawa_Yoshinobu",
+    "label" : "Tokugawa Yoshinobu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tokuo_Yamashita",
+    "label" : "Tokuo Yamashita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tokushichi_Mishima",
+    "label" : "Tokushichi Mishima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tomie_Ohtake",
+    "label" : "Tomie Ohtake"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tomio_Aoki",
+    "label" : "Tomio Aoki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tomitarō_Horii",
+    "birthDate" : "1890-11-07",
+    "deathDate" : "1942-11-23",
+    "label" : "Tomitarō Horii"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tomoji_Tanabe",
+    "label" : "Tomoji Tanabe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tomoko_Kawakami",
+    "label" : "Tomoko Kawakami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tomoo_Kudaka",
+    "label" : "Tomoo Kudaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tomoyuki_Yamashita",
+    "label" : "Tomoyuki Yamashita"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toshihiko_Nakajima",
+    "label" : "Toshihiko Nakajima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toshihito_Ito",
+    "label" : "Toshihito Ito"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toshikatsu_Matsuoka",
+    "label" : "Toshikatsu Matsuoka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toshikazu_Kase",
+    "label" : "Toshikazu Kase"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toshinari_Maeda",
+    "birthDate" : "1885-06-05",
+    "deathDate" : "1942-09-05",
+    "label" : "Toshinari Maeda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toshio_Nakanishi",
+    "label" : "Toshio Nakanishi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toshio_Ōta",
+    "birthDate" : "1919-03-20",
+    "deathDate" : "1942-10-21",
+    "label" : "Toshio Ōta"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toshiro_Mifune",
+    "label" : "Toshiro Mifune"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Toshiyuki_Hosokawa",
+    "label" : "Toshiyuki Hosokawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tsumasaburō_Bandō",
+    "label" : "Tsumasaburō Bandō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tsunehiko_Watase",
+    "label" : "Tsunehiko Watase"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tsuneko_Nakazato",
+    "label" : "Tsuneko Nakazato"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tsutomu_Hata",
+    "label" : "Tsutomu Hata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tsutomu_Miyazaki",
+    "birthDate" : "1962-08-21",
+    "deathDate" : "2008-06-17",
+    "label" : "Tsutomu Miyazaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tsutomu_Yamaguchi",
+    "label" : "Tsutomu Yamaguchi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tsuyoshi_Yamanaka",
+    "label" : "Tsuyoshi Yamanaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tōgō_Heihachirō",
+    "birthDate" : "1848-01-27",
+    "deathDate" : "1934-05-30",
+    "label" : "Tōgō Heihachirō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Tōru_Mori",
+    "label" : "Tōru Mori"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Uehara_Yūsaku",
+    "birthDate" : "1856-12-06",
+    "deathDate" : "1933-11-08",
+    "label" : "Uehara Yūsaku"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Uemura_Shōen",
+    "label" : "Uemura Shōen"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Umetsugu_Inoue",
+    "label" : "Umetsugu Inoue"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Unno_Juza",
+    "label" : "Unno Juza"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Utaemon_Ichikawa",
+    "label" : "Utaemon Ichikawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Wakachichibu_Komei",
+    "label" : "Wakachichibu Komei"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Wakanohana_Kanji_I",
+    "label" : "Wakanohana Kanji I"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Wakatsuki_Reijirō",
+    "label" : "Wakatsuki Reijirō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Watanabe_Kunitake",
+    "label" : "Watanabe Kunitake"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yae_Ibuka",
+    "label" : "Yae Ibuka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yaeko_Nogami",
+    "label" : "Yaeko Nogami"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yahei_Miura",
+    "label" : "Yahei Miura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yamagata_Aritomo",
+    "label" : "Yamagata Aritomo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yamagata_Isaburō",
+    "label" : "Yamagata Isaburō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yamamoto_Gonnohyōe",
+    "label" : "Yamamoto Gonnohyōe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yamamoto_Yaeko",
+    "label" : "Yamamoto Yaeko"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuaki_Taiho",
+    "label" : "Yasuaki Taiho"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuda_Zenjirō",
+    "label" : "Yasuda Zenjirō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuhide_Kurihara",
+    "birthDate" : "1908-11-17",
+    "deathDate" : "1936-07-12",
+    "label" : "Yasuhide Kurihara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuhira_Kiyohara",
+    "birthDate" : "1914-01-14",
+    "deathDate" : "2001-04-07",
+    "label" : "Yasuhira Kiyohara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuhito,_Prince_Chichibu",
+    "label" : "Yasuhito, Prince Chichibu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuji_Miyazaki",
+    "label" : "Yasuji Miyazaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasujirō_Ozu",
+    "label" : "Yasujirō Ozu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuko_Namba",
+    "label" : "Yasuko Namba"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasumasa_Narasaki",
+    "label" : "Yasumasa Narasaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasunari_Kawabata",
+    "label" : "Yasunari Kawabata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasunori_Watanabe",
+    "birthDate" : "1974-07-02",
+    "deathDate" : "2010-04-03",
+    "label" : "Yasunori Watanabe"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasushi_Inoue",
+    "label" : "Yasushi Inoue"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuyo_Yamasaki",
+    "birthDate" : "1891-10-17",
+    "deathDate" : "1943-05-29",
+    "label" : "Yasuyo Yamasaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuyuki_Kuwahara",
+    "label" : "Yasuyuki Kuwahara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yasuyuki_Nakai",
+    "label" : "Yasuyuki Nakai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yatarō_Kurokawa",
+    "label" : "Yatarō Kurokawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoichi_Numata",
+    "label" : "Yoichi Numata"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yone_Minagawa",
+    "label" : "Yone Minagawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yorozuya_Kinnosuke",
+    "label" : "Yorozuya Kinnosuke"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshifumi_Kondō",
+    "label" : "Yoshifumi Kondō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshihiro_Tatsumi",
+    "birthDate" : "1935-06-10",
+    "deathDate" : "2015-03-07",
+    "label" : "Yoshihiro Tatsumi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshihiro_Yonezawa",
+    "label" : "Yoshihiro Yonezawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshihito,_Prince_Katsura",
+    "label" : "Yoshihito, Prince Katsura"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshijirō_Umezu",
+    "birthDate" : "1882-01-04",
+    "deathDate" : "1949-01-08",
+    "label" : "Yoshijirō Umezu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshikata_Yoda",
+    "label" : "Yoshikata Yoda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshikawa_Akimasa",
+    "label" : "Yoshikawa Akimasa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshiki_Sasai",
+    "label" : "Yoshiki Sasai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshiko_Tanaka",
+    "label" : "Yoshiko Tanaka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshimi_Nishida",
+    "birthDate" : "1892-03-01",
+    "deathDate" : "1944-01-21",
+    "label" : "Yoshimi Nishida"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshimitsu_Banno",
+    "label" : "Yoshimitsu Banno"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshinao_Kodaira",
+    "birthDate" : "1918",
+    "deathDate" : "2008",
+    "label" : "Yoshinao Kodaira"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshinori_Sakai",
+    "label" : "Yoshinori Sakai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshinori_Shirakawa",
+    "birthDate" : "1869-01-24",
+    "deathDate" : "1932-05-26",
+    "label" : "Yoshinori Shirakawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshio_Harada",
+    "label" : "Yoshio Harada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshio_Inaba",
+    "label" : "Yoshio Inaba"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshio_Shiga",
+    "birthDate" : "1914",
+    "deathDate" : "2005-11-25",
+    "label" : "Yoshio Shiga"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshio_Shirai",
+    "label" : "Yoshio Shirai"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshio_Tachibana",
+    "birthDate" : "1890-02-24",
+    "deathDate" : "1947-09-24",
+    "label" : "Yoshio Tachibana"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshio_Tsuchiya",
+    "label" : "Yoshio Tsuchiya"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshiro_Hayashi_(politician)",
+    "label" : "Yoshiro Hayashi (politician)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshito_Usui",
+    "label" : "Yoshito Usui"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshitsugu_Saitō",
+    "birthDate" : "1890-11-02",
+    "deathDate" : "1944-07-10",
+    "label" : "Yoshitsugu Saitō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yoshitsugu_Tatekawa",
+    "birthDate" : "1880-10-03",
+    "deathDate" : "1945-09-09",
+    "label" : "Yoshitsugu Tatekawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yozo_Ishikawa",
+    "label" : "Yozo Ishikawa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yujiro_Ishihara",
+    "label" : "Yujiro Ishihara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yukiko_Okada",
+    "label" : "Yukiko Okada"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yukio_Aoshima",
+    "label" : "Yukio Aoshima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yukio_Endo",
+    "label" : "Yukio Endo"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yukio_Kasahara",
+    "birthDate" : "1889-11-06",
+    "deathDate" : "1988-01-02",
+    "label" : "Yukio Kasahara"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yukio_Mishima",
+    "label" : "Yukio Mishima"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yukio_Tsuda_(footballer)",
+    "label" : "Yukio Tsuda (footballer)"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yumeji_Tsukioka",
+    "label" : "Yumeji Tsukioka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yumika_Hayashi",
+    "label" : "Yumika Hayashi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yumio_Nasu",
+    "birthDate" : "1892-06-27",
+    "deathDate" : "1942-10-26",
+    "label" : "Yumio Nasu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yuri_Kochiyama",
+    "label" : "Yuri Kochiyama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yuriko_Miyamoto",
+    "label" : "Yuriko Miyamoto"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yusaku_Matsuda",
+    "label" : "Yusaku Matsuda"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yutaka_Katayama",
+    "label" : "Yutaka Katayama"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yutaka_Ozaki",
+    "label" : "Yutaka Ozaki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yō_Inoue",
+    "label" : "Yō Inoue"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yōko_Minamida",
+    "label" : "Yōko Minamida"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yōko_Mitsui",
+    "label" : "Yōko Mitsui"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yōko_Nogiwa",
+    "label" : "Yōko Nogiwa"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yōsuke_Matsuoka",
+    "label" : "Yōsuke Matsuoka"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yūji_Aoki",
+    "label" : "Yūji Aoki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Yūko_Mizutani",
+    "label" : "Yūko Mizutani"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Zengo_Yoshida",
+    "birthDate" : "1885-02-14",
+    "deathDate" : "1966-11-14",
+    "label" : "Zengo Yoshida"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Zenkō_Suzuki",
+    "label" : "Zenkō Suzuki"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ōdera_Yasuzumi",
+    "birthDate" : "1846-03-09",
+    "deathDate" : "1895-02-09",
+    "label" : "Ōdera Yasuzumi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ōkuma_Shigenobu",
+    "label" : "Ōkuma Shigenobu"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ōmura_Masujirō",
+    "label" : "Ōmura Masujirō"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ōuchiyama_Heikichi",
+    "label" : "Ōuchiyama Heikichi"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ōura_Kanetake",
+    "label" : "Ōura Kanetake"
+  }, {
+    "@id" : "http://dbpedia.org/resource/Ōyama_Iwao",
+    "birthDate" : "1842-11-12",
+    "deathDate" : "1916-12-10",
+    "label" : "Ōyama Iwao"
+  } ],
+  "@id" : "urn:x-arq:DefaultGraphNode",
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "deathDate" : "http://dbpedia.org/ontology/deathDate",
+    "birthDate" : "http://dbpedia.org/ontology/birthDate",
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "xml" : "http://www.w3.org/XML/1998/namespace",
+    "xsd" : "http://www.w3.org/2001/XMLSchema#",
+    "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+    "ns1" : "http://dbpedia.org/ontology/"
+  }
+}
